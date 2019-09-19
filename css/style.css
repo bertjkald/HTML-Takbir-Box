@@ -1,0 +1,30 @@
+body {
+    border: 10px solid red;
+    margin: 0;
+}
+
+div {
+    height: 200px;
+    width: 200px;
+    box-sizing: border-box;
+}
+
+p {
+    margin: 0;
+}
+
+.red {
+    background-color: red;
+    border: 10px solid blue;
+    text-align: center;
+}
+.yellow {
+    background-color: yellow;
+    margin-left: 200px;
+    text-align: center;
+}
+.green {
+    background-color: green;
+    margin-left: 400px;
+    text-align: center;
+}
